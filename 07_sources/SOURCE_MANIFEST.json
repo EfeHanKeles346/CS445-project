@@ -1,0 +1,50 @@
+[
+  {
+    "type": "course specification",
+    "file": "course_project_description.pdf",
+    "original_path": "/Users/efehankeles/Desktop/2026-2027 FALL/CS 445/project/Fall26 - CS 445 - Project Description File.pdf"
+  },
+  {
+    "type": "official task specification",
+    "url": "https://www.codabench.org/competitions/17510/",
+    "retrieval_endpoint": "https://www.codabench.org/api/competitions/17510/",
+    "snapshot_files": [
+      "official/codabench_91132.md",
+      "official/codabench_90886.md",
+      "official/codabench_88564.md",
+      "official/codabench_87542.md",
+      "official/codabench_88311.md",
+      "official/codabench_86736.md"
+    ],
+    "retrieved": "2026-11-14"
+  },
+  {
+    "type": "official development data",
+    "manifest": "../04_data/raw/download_manifest.json"
+  },
+  {
+    "type": "official scorer",
+    "manifest": "scorer/provenance.json"
+  },
+  {
+    "type": "allowed methodology paper",
+    "venue": "ACL 2020",
+    "url": "https://aclanthology.org/2020.acl-main.365/",
+    "pdf_url": "https://aclanthology.org/2020.acl-main.365.pdf",
+    "sha256": "1b94017bab913273d1fe487be190b9362e76dc50e2ebf982fcb4cfb107636aa1"
+  },
+  {
+    "type": "allowed methodology paper",
+    "venue": "ACL 2023",
+    "url": "https://aclanthology.org/2023.acl-short.135/",
+    "pdf_url": "https://aclanthology.org/2023.acl-short.135.pdf",
+    "sha256": "26aee6bb8b8cb5008f29be1691f99015e4828772b2d36d0d45179f6735a31c0f"
+  },
+  {
+    "type": "allowed methodology paper",
+    "venue": "NAACL 2024",
+    "url": "https://aclanthology.org/2024.naacl-long.240/",
+    "pdf_url": "https://aclanthology.org/2024.naacl-long.240.pdf",
+    "sha256": "454c65614fdfb11f5e350a778bdaf1816d89c51f1870f96e0c084fb92f183539"
+  }
+]

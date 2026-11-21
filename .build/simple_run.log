@@ -1,0 +1,3 @@
+MONO_WASM: WebAssembly resource does not have the expected content type "application/wasm", so falling back to slower ArrayBuffer instantiation.
+Inspect result written to file: /Users/efehankeles/Desktop/2026-2027 FALL/CS 445/term project/milestone/.build/simple_deck/candidate.pptx.inspect.ndjson
+{"finalPath":"/Users/efehankeles/Desktop/2026-2027 FALL/CS 445/term project/milestone/02_presentation/GroupXXXXX_milestone_presentation_SIMPLE.pptx","sha256":"aa72eb13adfbd51e6af85d8c50fb48bfa7fd6ef2cc76fa21e79bde6efb8997eb"}

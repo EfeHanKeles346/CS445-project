@@ -1,0 +1,129 @@
+{
+  "usages": 1983,
+  "words": 10,
+  "periods": [
+    "1880-1883",
+    "1888-1891",
+    "1896-1899",
+    "1904-1907",
+    "1912-1915",
+    "2006-2007",
+    "2010-2011",
+    "2014-2015",
+    "2018-2019",
+    "2022-2023"
+  ],
+  "word_summary": [
+    {
+      "word": "dumpa",
+      "usages": 145,
+      "observed_periods": 5,
+      "gold_senses": 6,
+      "multi_label_usages": 42,
+      "median_whitespace_tokens": 26.0
+    },
+    {
+      "word": "exportera",
+      "usages": 149,
+      "observed_periods": 5,
+      "gold_senses": 3,
+      "multi_label_usages": 0,
+      "median_whitespace_tokens": 25.0
+    },
+    {
+      "word": "fru",
+      "usages": 274,
+      "observed_periods": 10,
+      "gold_senses": 5,
+      "multi_label_usages": 79,
+      "median_whitespace_tokens": 26.0
+    },
+    {
+      "word": "fröken",
+      "usages": 174,
+      "observed_periods": 10,
+      "gold_senses": 4,
+      "multi_label_usages": 7,
+      "median_whitespace_tokens": 32.0
+    },
+    {
+      "word": "förort",
+      "usages": 150,
+      "observed_periods": 5,
+      "gold_senses": 3,
+      "multi_label_usages": 79,
+      "median_whitespace_tokens": 27.0
+    },
+    {
+      "word": "herre",
+      "usages": 283,
+      "observed_periods": 10,
+      "gold_senses": 8,
+      "multi_label_usages": 42,
+      "median_whitespace_tokens": 27.0
+    },
+    {
+      "word": "kvinna",
+      "usages": 290,
+      "observed_periods": 10,
+      "gold_senses": 5,
+      "multi_label_usages": 6,
+      "median_whitespace_tokens": 27.0
+    },
+    {
+      "word": "motiv",
+      "usages": 291,
+      "observed_periods": 10,
+      "gold_senses": 5,
+      "multi_label_usages": 2,
+      "median_whitespace_tokens": 28.0
+    },
+    {
+      "word": "skär",
+      "usages": 98,
+      "observed_periods": 5,
+      "gold_senses": 6,
+      "multi_label_usages": 3,
+      "median_whitespace_tokens": 33.0
+    },
+    {
+      "word": "suga",
+      "usages": 129,
+      "observed_periods": 5,
+      "gold_senses": 12,
+      "multi_label_usages": 2,
+      "median_whitespace_tokens": 28.0
+    }
+  ],
+  "period_counts": {
+    "1880-1883": 163,
+    "1888-1891": 139,
+    "1896-1899": 162,
+    "1904-1907": 141,
+    "1912-1915": 163,
+    "2006-2007": 239,
+    "2010-2011": 243,
+    "2014-2015": 252,
+    "2018-2019": 239,
+    "2022-2023": 242
+  },
+  "label_cardinality_counts": {
+    "1": 1721,
+    "2": 244,
+    "3": 18
+  },
+  "multi_label_usages": 262,
+  "multi_label_percentage": 13.212304589006555,
+  "whitespace_token_summary": {
+    "count": 1983.0,
+    "mean": 31.318204740292487,
+    "std": 12.84932106654975,
+    "min": 16.0,
+    "25%": 23.0,
+    "50%": 27.0,
+    "75%": 35.5,
+    "max": 100.0
+  },
+  "observed_word_period_cells": 75,
+  "empty_word_period_cells": 25
+}

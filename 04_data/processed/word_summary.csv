@@ -1,0 +1,11 @@
+word,usages,observed_periods,gold_senses,multi_label_usages,median_whitespace_tokens
+dumpa,145,5,6,42,26.0
+exportera,149,5,3,0,25.0
+fru,274,10,5,79,26.0
+fröken,174,10,4,7,32.0
+förort,150,5,3,79,27.0
+herre,283,10,8,42,27.0
+kvinna,290,10,5,6,27.0
+motiv,291,10,5,2,28.0
+skär,98,5,6,3,33.0
+suga,129,5,12,2,28.0

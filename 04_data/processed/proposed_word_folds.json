@@ -1,0 +1,96 @@
+{
+  "seed": 445,
+  "status": "proposed; not used for model tuning",
+  "folds": [
+    {
+      "fold": 1,
+      "tuning_words": [
+        "dumpa",
+        "fru",
+        "fröken",
+        "förort",
+        "herre",
+        "kvinna",
+        "motiv",
+        "skär"
+      ],
+      "validation_words": [
+        "suga",
+        "exportera"
+      ],
+      "validation_usages": 278
+    },
+    {
+      "fold": 2,
+      "tuning_words": [
+        "dumpa",
+        "exportera",
+        "fru",
+        "fröken",
+        "kvinna",
+        "motiv",
+        "skär",
+        "suga"
+      ],
+      "validation_words": [
+        "förort",
+        "herre"
+      ],
+      "validation_usages": 433
+    },
+    {
+      "fold": 3,
+      "tuning_words": [
+        "dumpa",
+        "exportera",
+        "fröken",
+        "förort",
+        "herre",
+        "kvinna",
+        "skär",
+        "suga"
+      ],
+      "validation_words": [
+        "fru",
+        "motiv"
+      ],
+      "validation_usages": 565
+    },
+    {
+      "fold": 4,
+      "tuning_words": [
+        "exportera",
+        "fru",
+        "förort",
+        "herre",
+        "kvinna",
+        "motiv",
+        "skär",
+        "suga"
+      ],
+      "validation_words": [
+        "dumpa",
+        "fröken"
+      ],
+      "validation_usages": 319
+    },
+    {
+      "fold": 5,
+      "tuning_words": [
+        "dumpa",
+        "exportera",
+        "fru",
+        "fröken",
+        "förort",
+        "herre",
+        "motiv",
+        "suga"
+      ],
+      "validation_words": [
+        "kvinna",
+        "skär"
+      ],
+      "validation_usages": 388
+    }
+  ]
+}

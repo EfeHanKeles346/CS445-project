@@ -1,0 +1,21 @@
+{
+  "report_main_pages": 4,
+  "reference_pages": 1,
+  "slides": 8,
+  "main_slides": 6,
+  "backup_slides": 2,
+  "executed_notebook_code_cells": 8,
+  "embedded_eda_figures": 4,
+  "official_scorer_cli_errors": 0,
+  "presentation_package": "passed",
+  "presentation_layout_findings": 0,
+  "presentation_layout_warnings": 0,
+  "native_chart_and_workbook": "passed",
+  "unresolved": [
+    "group number and member names",
+    "actual workload assignment",
+    "TA slot and submission cutoff",
+    "student-authored final report under course AI policy"
+  ],
+  "claimed_neural_model_results": false
+}

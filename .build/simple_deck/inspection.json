@@ -1,0 +1,1332 @@
+{
+  "recordCount": 69,
+  "records": [
+    {
+      "kind": "slide",
+      "id": "sl/y90nupkv",
+      "slideIndex": 0,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Word sense change over time",
+      "textShapes": 10,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/i1w3yp8f",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Word sense change over time",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/547294r6",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   1",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/k3yl0zql",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 137,
+        "width": 1110,
+        "height": 45
+      },
+      "text": "SemEval 2027 Task 3, Subtask 1",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/7qp4be9c",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 207,
+        "width": 1090,
+        "height": 95
+      },
+      "text": "We group uses of a word by meaning, then compare the groups across time periods.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/65g3298r",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 326,
+        "width": 1100,
+        "height": 40
+      },
+      "text": "For example",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ts7md4r2",
+      "slideIndex": 0,
+      "position": {
+        "left": 95,
+        "top": 391,
+        "width": 850,
+        "height": 46
+      },
+      "text": "“The mouse ate the grain.”",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sryl4zqx",
+      "slideIndex": 0,
+      "position": {
+        "left": 1000,
+        "top": 391,
+        "width": 200,
+        "height": 46
+      },
+      "text": "Group 0",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fu94fe98",
+      "slideIndex": 0,
+      "position": {
+        "left": 95,
+        "top": 465,
+        "width": 880,
+        "height": 46
+      },
+      "text": "“The mouse has a wireless receiver.”",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/utg3698n",
+      "slideIndex": 0,
+      "position": {
+        "left": 1000,
+        "top": 465,
+        "width": 200,
+        "height": 46
+      },
+      "text": "Group 1",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/wn6dc7eh",
+      "slideIndex": 0,
+      "position": {
+        "left": 70,
+        "top": 565,
+        "width": 1110,
+        "height": 42
+      },
+      "text": "Illustrative English examples. The project data is Swedish.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/hwbqtkby",
+      "slideIndex": 1,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Dataset",
+      "textShapes": 9,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/mxgjm5s7",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Dataset",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/9072xkry",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   2",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ozy1ofad",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 142,
+        "width": 1110,
+        "height": 50
+      },
+      "text": "We use the official Swedish development set.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 30,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/b29kza94",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 221,
+        "width": 1110,
+        "height": 150
+      },
+      "text": "1,983 usages of 10 target words\n10 period labels between 1880 and 2023\nNo observations between 1915 and 2006",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/a10jqpsj",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 414,
+        "width": 160,
+        "height": 45
+      },
+      "text": "Input",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/x4r21kru",
+      "slideIndex": 1,
+      "position": {
+        "left": 260,
+        "top": 414,
+        "width": 900,
+        "height": 70
+      },
+      "text": "Sentence, target-word span, word ID and period label",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/w3i1sfa9",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 508,
+        "width": 160,
+        "height": 45
+      },
+      "text": "Output",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/r65knqtk",
+      "slideIndex": 1,
+      "position": {
+        "left": 260,
+        "top": 508,
+        "width": 900,
+        "height": 70
+      },
+      "text": "One or more sense-group labels for each usage",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/q5wjelsz",
+      "slideIndex": 1,
+      "position": {
+        "left": 70,
+        "top": 610,
+        "width": 1110,
+        "height": 40
+      },
+      "text": "Public labels are available for development. No additional corpus is selected.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/ofy9wn61",
+      "slideIndex": 2,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Data analysis",
+      "textShapes": 6,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/298ryl4v",
+      "slideIndex": 2,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Data analysis",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3ah8rqlg",
+      "slideIndex": 2,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   3",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/obq90bml",
+      "slideIndex": 2,
+      "position": {
+        "left": 867,
+        "top": 185,
+        "width": 330,
+        "height": 90
+      },
+      "text": "98 to 291 usages per word",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/pcjqtg36",
+      "slideIndex": 2,
+      "position": {
+        "left": 867,
+        "top": 300,
+        "width": 330,
+        "height": 145
+      },
+      "text": "Five words appear in all ten periods; the other five appear in five.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/m5cra54z",
+      "slideIndex": 2,
+      "position": {
+        "left": 867,
+        "top": 460,
+        "width": 330,
+        "height": 120
+      },
+      "text": "262 usages (13.2%) have more than one reference label.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 27,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/n6ls3alk",
+      "slideIndex": 2,
+      "position": {
+        "left": 70,
+        "top": 610,
+        "width": 1110,
+        "height": 42
+      },
+      "text": "Five exact-text pairs have different official IDs; we retained them.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 22,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "chart",
+      "id": "ch/t0jax0vy",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 152,
+        "width": 760,
+        "height": 420
+      },
+      "name": "Chart",
+      "chartType": "bar"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/jyx0ra1s",
+      "slideIndex": 3,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Related work",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/e9sj2tsv",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Related work",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/1cj2d8b6",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   4",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/0ba143al",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 155,
+        "width": 1120,
+        "height": 45
+      },
+      "text": "Giulianelli et al. (2020), ACL",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/rm1k7yt4",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 213,
+        "width": 1110,
+        "height": 80
+      },
+      "text": "Cluster contextual word representations and compare the groups over time.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ql8jytsj",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 322,
+        "width": 1120,
+        "height": 45
+      },
+      "text": "Cassotti et al. (2023), ACL",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/doj29oba",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 380,
+        "width": 1110,
+        "height": 80
+      },
+      "text": "Use XL-LEXEME as our first candidate for representing word usages.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/sna103ap",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 489,
+        "width": 1120,
+        "height": 45
+      },
+      "text": "Periti and Tahmasebi (2024), NAACL",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/3ihk3et8",
+      "slideIndex": 3,
+      "position": {
+        "left": 70,
+        "top": 547,
+        "width": 1110,
+        "height": 80
+      },
+      "text": "Guide our comparison of representations and evaluation choices.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/i107q5of",
+      "slideIndex": 4,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Planned approach",
+      "textShapes": 8,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/qd0bahob",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Planned approach",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dgbulwnm",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   5",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cf2tcr61",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 153,
+        "width": 1120,
+        "height": 65
+      },
+      "text": "1. Encode each target occurrence with XL-LEXEME.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/z2tcnm5s",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 246,
+        "width": 1120,
+        "height": 88
+      },
+      "text": "2. Cluster all periods together for each word, starting with K-means.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/yhkbe1o7",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 357,
+        "width": 1120,
+        "height": 65
+      },
+      "text": "3. Evaluate the sense groups and their changes over time.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 29,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l4bupwny",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 455,
+        "width": 1110,
+        "height": 42
+      },
+      "text": "Development comparison",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/032tgr6d",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 506,
+        "width": 1110,
+        "height": 65
+      },
+      "text": "Five folds: two whole words held out in each fold; tune on the other eight.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/n6dcr65o",
+      "slideIndex": 4,
+      "position": {
+        "left": 70,
+        "top": 581,
+        "width": 1110,
+        "height": 55
+      },
+      "text": "Sense assignment: BCubed F1.  Sense dynamics: Spearman correlation.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 25,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/x8f69ofe",
+      "slideIndex": 5,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Next steps",
+      "textShapes": 5,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/lkrqp4ra",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Next steps",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/yhg7epsj",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   6",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zi98nu94",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 137,
+        "width": 1120,
+        "height": 50
+      },
+      "text": "Data checks, EDA and the scorer check are complete.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/98rqt4r6",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 548,
+        "width": 1120,
+        "height": 45
+      },
+      "text": "We will agree on names during the group review.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 26,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ml07i9sv",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 607,
+        "width": 1120,
+        "height": 45
+      },
+      "text": "Before 23 November: finish the review and rehearse the five-minute talk.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 24,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/5gzmp4vu",
+      "slideIndex": 5,
+      "position": {
+        "left": 70,
+        "top": 220,
+        "width": 1120,
+        "height": 290
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 2,
+      "preview": "Work | Owner"
+    },
+    {
+      "kind": "slide",
+      "id": "sl/gnmp4jqx",
+      "slideIndex": 6,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "References",
+      "textShapes": 9,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/baxkjqlk",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 44,
+        "width": 1150,
+        "height": 90
+      },
+      "text": "References",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/cb2tkvap",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 675,
+        "width": 1150,
+        "height": 24
+      },
+      "text": "GroupXXXXX   7",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/dcbud0ra",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 155,
+        "width": 1150,
+        "height": 45
+      },
+      "text": "Giulianelli, Del Tredici and Fernández 2020",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ydkbm5sv",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 204,
+        "width": 1150,
+        "height": 72
+      },
+      "text": "Analysing Lexical Semantic Change with Contextualised Word Representations\nACL, pages 3960–3973   aclanthology.org/2020.acl-main.365",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/zedcfa9g",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 302,
+        "width": 1150,
+        "height": 45
+      },
+      "text": "Cassotti, Siciliani, DeGemmis, Semeraro and Basile 2023",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/kzmdova1",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 351,
+        "width": 1150,
+        "height": 72
+      },
+      "text": "XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE\nACL, pages 1577–1585   aclanthology.org/2023.acl-short.135",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/l0vuh0rm",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 449,
+        "width": 1150,
+        "height": 45
+      },
+      "text": "Periti and Tahmasebi 2024",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 28,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/eh0ba1sr",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 498,
+        "width": 1150,
+        "height": 78
+      },
+      "text": "A Systematic Comparison of Contextualized Word Embeddings for Lexical Semantic Change\nNAACL, pages 4262–4282   aclanthology.org/2024.naacl-long.240",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/fi9c369c",
+      "slideIndex": 6,
+      "position": {
+        "left": 64,
+        "top": 600,
+        "width": 1150,
+        "height": 60
+      },
+      "text": "Task and data: codabench.org/competitions/17510\nScorer: github.com/ChangeIsKey/semeval2027-task3",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "slide",
+      "id": "sl/fu1gfa1s",
+      "slideIndex": 7,
+      "layout": {
+        "id": "ly/14ra9krq",
+        "name": "Blank"
+      },
+      "title": "Usages by word and period",
+      "textShapes": 3,
+      "backgroundColor": "rgba(255,255,255,1)"
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/ri9g7uhw",
+      "slideIndex": 7,
+      "position": {
+        "left": 70,
+        "top": 45,
+        "width": 1130,
+        "height": 70
+      },
+      "text": "Usages by word and period",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 38,
+        "typeface": "Arial",
+        "color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/6h0fypgb",
+      "slideIndex": 7,
+      "position": {
+        "left": 70,
+        "top": 674,
+        "width": 1120,
+        "height": 26
+      },
+      "text": "GroupXXXXX   8",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 16,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "textbox",
+      "id": "sh/tkby9kzm",
+      "slideIndex": 7,
+      "position": {
+        "left": 70,
+        "top": 620,
+        "width": 1130,
+        "height": 48
+      },
+      "text": "A zero means no observation in this dataset. Periods have gaps and unequal widths.",
+      "geometry": "rect",
+      "lineWidth": 0,
+      "style": {
+        "fontSize": 23,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left"
+      }
+    },
+    {
+      "kind": "table",
+      "id": "tb/d4nu5ozq",
+      "slideIndex": 7,
+      "position": {
+        "left": 64,
+        "top": 160,
+        "width": 1150,
+        "height": 412
+      },
+      "name": "",
+      "rows": 11,
+      "cols": 11,
+      "preview": "Word | 1880 1883 | 1888 1891 | 1896 1899 | 1904 1907 | 1912 1915 | 2006 2007 | 2010 2011 | 2014 2015 | 2018 2019 | 2022 2023"
+    }
+  ],
+  "truncated": false,
+  "metadata": {
+    "target": {
+      "id": "pr/ptiiad"
+    },
+    "omittedRecords": 0,
+    "abbreviatedRecords": 0,
+    "notices": []
+  }
+}

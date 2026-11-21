@@ -1,0 +1,32 @@
+{
+  "usages": 1983,
+  "words": 10,
+  "periods": 10,
+  "languages": [
+    "SV"
+  ],
+  "missing_required_values": {
+    "word": 0,
+    "sentence_id": 0,
+    "text": 0,
+    "pos": 0,
+    "period_label": 0,
+    "start": 0,
+    "end": 0,
+    "year": 0
+  },
+  "duplicate_usage_keys": 0,
+  "invalid_offsets": 0,
+  "year_period_mismatches": 0,
+  "duplicate_text_extra_rows": 5,
+  "duplicate_text_rows_for_review": 10,
+  "note": "Exact text repeats have distinct official IDs. Preserve all official usages. Surface forms may differ from lemmas due to inflection.",
+  "files_sha256": {
+    "subtask2.jsonl": "234395809f4c46e3defccb1f7467e5aadc58d76c1e57cdbce90becb6abc60f81",
+    "definitions.jsonl": "cec3e500c71e13e5b39591a682344cdd4e86da1ccec7b862290ede664697c616",
+    "usages_count.tsv": "9c00031704a08cc18e5a8d302372a4cd10666d5de3fbd6cf68b52e08ccd816cf",
+    "senses_count.tsv": "f77b10410f3f6ea28720a2ce91faacd75143f4e58df035751287884e1ebde7c3",
+    "subtask1.jsonl": "8550ba6e8ab874aeb46b227151defeb9a0644f90a735f8cb4efdda55b5d6f06e",
+    "usages.jsonl": "9ca85f239bb4b00f9d52298c657afc017b6d0e7e432d14df4a4850fddf75935a"
+  }
+}

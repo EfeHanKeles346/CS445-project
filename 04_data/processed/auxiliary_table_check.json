@@ -1,0 +1,5 @@
+{
+  "usage_count_table_matches": true,
+  "sense_table_cells_different_from_unique_gold_label_counts": 69,
+  "decision": "Compute sense counts from subtask1.jsonl. The auxiliary senses_count.tsv has an undocumented counting convention or stale values; do not treat it as unique gold senses."
+}

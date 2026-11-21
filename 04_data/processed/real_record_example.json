@@ -1,0 +1,24 @@
+{
+  "input": {
+    "word": "kvinna",
+    "sentence_id": "137d9286_62_69",
+    "text": "nesliga lif medelst sjelfmord ; och ett stort antal olyckliga kvinnor , sorn sökt fly undan eländet , ha fallit i „mordeHglarnes4 händer , och deras ben vittra öfver allt i Utahs solbrända dalar .",
+    "pos": "NN",
+    "period_label": "1880-1883",
+    "start": 62,
+    "end": 69,
+    "year": "1883"
+  },
+  "target_surface": "kvinnor",
+  "reference_labels": [
+    3
+  ],
+  "illustrative_prediction": {
+    "word": "kvinna",
+    "sentence_id": "137d9286_62_69",
+    "label": [
+      0
+    ]
+  },
+  "note": "Label 0 is an illustrative predicted cluster ID, not a semantic interpretation or a successful model prediction."
+}

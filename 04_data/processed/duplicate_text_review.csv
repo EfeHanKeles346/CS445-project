@@ -1,0 +1,11 @@
+word,sentence_id,text,pos,period_label,start,end,year,target_surface,whitespace_tokens,characters
+exportera,f05db5_11_22,"Förra året exporterade Hägglunds för drygt 1,2 miljarder kronor , varav 671 miljoner räknas som krigsmateriel för strid .",VB,2006-2007,11,22,2007,exporterade,19,121
+exportera,f07056_11_22,"Förra året exporterade Hägglunds för drygt 1,2 miljarder kronor , varav 671 miljoner räknas som krigsmateriel för strid .",VB,2006-2007,11,22,2007,exporterade,19,121
+fröken,32f21e32_44_50,– Det var många som blev väldigt ledsna när fröken berättade att Khaled och Mohammed inte skulle få vara kvar här .,NN,2014-2015,44,50,2014,fröken,22,115
+fröken,32f03c86_44_50,– Det var många som blev väldigt ledsna när fröken berättade att Khaled och Mohammed inte skulle få vara kvar här .,NN,2014-2015,44,50,2014,fröken,22,115
+förort,8f399853_111_121,Jan Edlings lösning är en integrationskommission och tydliga mål för att minska skillnaderna mellan de utsatta förorterna och resten av Sverige .,NN,2014-2015,111,121,2015,förorterna,22,145
+förort,9a0cc80b_111_121,Jan Edlings lösning är en integrationskommission och tydliga mål för att minska skillnaderna mellan de utsatta förorterna och resten av Sverige .,NN,2014-2015,111,121,2015,förorterna,22,145
+suga,91a931a2_73_77,"BP tänker prova att sänka ner en mindre tratt , som visserligen inte kan suga upp lika mycket olja som den förra , men som inte får problem med iskristaller .",VB,2010-2011,73,77,2010,suga,31,158
+suga,2728a3e1_73_77,"BP tänker prova att sänka ner en mindre tratt , som visserligen inte kan suga upp lika mycket olja som den förra , men som inte får problem med iskristaller .",VB,2010-2011,73,77,2010,suga,31,158
+suga,272c70fb_52_56,Men på söndagen meddelade BP att man nu har lyckats suga upp läckande olja genom ett rör som man satte dit på eftermiddagen .,VB,2010-2011,52,56,2010,suga,24,125
+suga,91a3d126_52_56,Men på söndagen meddelade BP att man nu har lyckats suga upp läckande olja genom ett rör som man satte dit på eftermiddagen .,VB,2010-2011,52,56,2010,suga,24,125

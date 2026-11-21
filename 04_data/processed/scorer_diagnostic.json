@@ -1,0 +1,15 @@
+{
+  "description": "One cluster per word. Development integration diagnostic only; no semantic model training.",
+  "subtask1a": {
+    "precision": 0.6464234901205773,
+    "recall": 0.9811562528047861,
+    "fcubed": 0.7563415432223628
+  },
+  "subtask1b_scorer_value": 0,
+  "subtask1b_interpretation": "Predicted change scores are constant. Spearman correlation is mathematically undefined; the official scorer maps NaN to 0.",
+  "candidate_period_pairs": 65,
+  "scored_period_pairs": 60,
+  "warnings": [
+    "An input array is constant; the correlation coefficient is not defined."
+  ]
+}
